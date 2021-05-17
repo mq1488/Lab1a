@@ -1,0 +1,10 @@
+com/lab1/execution/factorial.java
+ com.lab1.execution.factorial
+com/lab1/utils/exception/TimeExceededException.java
+ com.lab1.utils.exception.TimeExceededException
+com/lab1/MainActivity.java
+ com.lab1.MainActivity
+com/lab1/BuildConfig.java
+ com.lab1.BuildConfig
+com/lab1/activity/MainActivityInflater.java
+ com.lab1.activity.MainActivityInflater
